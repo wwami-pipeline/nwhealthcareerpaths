@@ -1,0 +1,23 @@
+body {
+    font-family: 'Open Sans', san-serif;
+}
+
+.title {
+    font-weight: 800;
+}
+
+.italic-light {
+    font-style: italic;
+    font-weight: 300;
+}
+
+a.active {
+    /* border-bottom: 4px solid #85754d; */
+    text-decoration: underline;
+    /* text-decoration-color: #85754d; */
+    background-color: rgba(51, 0, 111, 1);
+}
+
+p, ul {
+    /* line-height: 1.6em; */
+}
